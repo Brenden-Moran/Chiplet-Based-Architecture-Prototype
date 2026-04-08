@@ -1,0 +1,16 @@
+{
+  "name": "App_Stream_Test2",
+  "type": "HOST",
+  "platform": "AXI_Stream_Test2",
+  "domain": "standalone_microblaze_riscv_0",
+  "cpuInstance": "microblaze_riscv_0",
+  "cpuType": "microblaze_riscv",
+  "os": "standalone",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "standalone_microblaze_riscv_0",
+  "useSysrootToolchain": false,
+  "applicationFlow": "EMBEDDED"
+}

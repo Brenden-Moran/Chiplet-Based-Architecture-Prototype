@@ -1,0 +1,1 @@
+README about this folder including all software for the project from Vitis and how to run each test. This will have each .c code used in testing to verify the AXI stream connection as well as the algorithm we wanted to run.

@@ -1,3 +1,0 @@
-C:/Accelerator_System/App_Stream_Test2/build/CMakeFiles/App_Stream_Test2.elf.dir
-C:/Accelerator_System/App_Stream_Test2/build/CMakeFiles/edit_cache.dir
-C:/Accelerator_System/App_Stream_Test2/build/CMakeFiles/rebuild_cache.dir

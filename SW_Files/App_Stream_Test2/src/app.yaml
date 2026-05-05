@@ -1,4 +1,0 @@
-domain_path: C:\Accelerator_System\AXI_Stream_Test2\export\AXI_Stream_Test2\sw\standalone_microblaze_riscv_0
-app_src_dir: C:\Xilinx\2025.1\Vitis\data\embeddedsw\lib\sw_apps\empty_application
-template: empty_application
-lang: c

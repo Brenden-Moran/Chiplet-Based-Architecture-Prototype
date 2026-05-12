@@ -1,0 +1,21 @@
+Accelerator_Stream_0:
+- Accelerator_Stream
+- None
+axi_dma_a:
+- axi_dma
+- axidma
+axi_dma_b:
+- axi_dma
+- axidma
+axi_dma_c:
+- axi_dma
+- axidma
+axi_perf_mon_0:
+- axi_perf_mon
+- axipmon
+axi_uartlite_0:
+- axi_uartlite
+- uartlite
+microblaze_riscv_0_local_memory_dlmb_bram_if_cntlr:
+- lmb_bram_if_cntlr
+- bram
